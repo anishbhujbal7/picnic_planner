@@ -24,7 +24,7 @@ React
 
 JavaScript (ES6+)
 
-CSS (for styling, or optionally Tailwind/Bootstrap if used)
+CSS (for styling)
 
 VS Code for development
 
