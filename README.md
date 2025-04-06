@@ -37,4 +37,7 @@ npm install
 
 Start the app
 npm start
+## 🌐 Live Demo
+[Click here to view the live project](https://anishbhujbal7.github.io/picnic_planner)
+
 
