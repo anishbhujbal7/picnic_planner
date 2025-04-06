@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picnic_planner/static/css/main.d7912acb.css",
+    "main.js": "/picnic_planner/static/js/main.dd97ae7d.js",
+    "index.html": "/picnic_planner/index.html",
+    "main.d7912acb.css.map": "/picnic_planner/static/css/main.d7912acb.css.map",
+    "main.dd97ae7d.js.map": "/picnic_planner/static/js/main.dd97ae7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7912acb.css",
+    "static/js/main.dd97ae7d.js"
+  ]
+}
