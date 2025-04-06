@@ -30,7 +30,7 @@ VS Code for development
 
 🚀 How to Run
 Clone this repo
-git clone https://github.com/your-username/tour-cards-react.git
+git clone https://github.com/anishbhujbal7/tour-cards-react.git
 
 Install dependencies
 npm install
